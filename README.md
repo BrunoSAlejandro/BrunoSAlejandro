@@ -25,7 +25,7 @@ Siempre enfocado en **aprender y crecer en el área tecnológica**.
 
 ## 📫 Contáctame
 
-- GitHub: [Kuro](https://github.com/BrunoSAlejandro)  
+- GitHub: [BrunoSAlejandro](https://github.com/BrunoSAlejandro)  
 - Email: brunobpalma@gmail.com  
 - LinkedIn: [Bruno](https://linkedin.com/in/tu-linkedin)
 
