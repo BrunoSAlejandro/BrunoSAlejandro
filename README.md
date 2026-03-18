@@ -30,3 +30,6 @@ Siempre enfocado en **aprender y crecer en el área tecnológica**.
 - LinkedIn: [Bruno](https://linkedin.com/in/tu-linkedin)
 
 ---
+
+
+Perfil en proceso...
