@@ -1,16 +1,32 @@
-## Hi there 👋
+# K u r o | Fullstack Jr.
 
-<!--
-**BrunoSAlejandro/BrunoSAlejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy **Bruno**, pero en GitHub me conocen como **K u r o 🖤**.  
+Me dedico a **programar, aprender y crear cosas geniales en la web**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stats de Habilidades (Level Up)
+
+- **JavaScript ⚡** – Nivel: 🔥 
+- **Python 🐍** – Nivel: 🔥 
+- **HTML & Web Dev 🌐** – Nivel: 🔥🔥  
+- **Aprendizaje Constante 📚** – Nivel: 💯
+
+---
+
+## 🚀 Sobre Mi
+
+Estudié **Diseño Gráfico** en Duoc UC.  
+Además, realicé una certificación en **Alura Latam** desarrollando aplicaciones web con **JavaScript**.  
+Siempre enfocado en **aprender y crecer en el área tecnológica**.  
+
+
+---
+
+## 📫 Contáctame
+
+- GitHub: [Kuro](https://github.com/Kuro)  
+- Email: brunobpalma@gmail.com  
+- LinkedIn: [Bruno](https://linkedin.com/in/tu-linkedin)
+
+---
